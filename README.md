@@ -1,5 +1,4 @@
 ## Hi there 👋 光之梦的Github
-/d
 **Nice to see you.**
 **Welcome to My GitHub**
 ---
@@ -8,6 +7,8 @@
 
 Here are some ideas to get you started:
 
+ `react` ![react][react] 
+ [react]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GuangZhiMeng&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
