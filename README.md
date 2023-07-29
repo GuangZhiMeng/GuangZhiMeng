@@ -11,16 +11,16 @@
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GuangZhiMeng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" /> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /></div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuangZhiMeng&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /></div>
 
 <!-- Awesome repo 比较好的仓库-->
 <a href="https://github.com/GuangZhiMeng/JavaStudy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuangZhiMeng&repo=github-readme-stats&cache_seconds=86400&theme=transparent" /></a>
+<img src="" /></a>
 <br>
   
 
 <!-- visitor statistics logo 访客数统计徽标 -->
-<img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+<img src="https://komarev.com/ghpvc/?username=GuangZhiMeng&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 🧰 常用的工具
 
@@ -59,8 +59,7 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/GuangZhiMeng/GuangZhiMeng/assets/images/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+
 
