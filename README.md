@@ -22,7 +22,7 @@
 
 <!-- Awesome repo 比较好的仓库-->
 <a href="https://github.com/GuangZhiMeng/JavaStudy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuangZhiMeng&repo=github-readme-stats&cache_seconds=86400&theme=shadow_blue" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuangZhiMeng&repo=JavaStudy&cache_seconds=86400&theme=shadow_blue" /></a>
 <br/>
   
 <!-- visitor statistics logo 访客数统计徽标 -->
