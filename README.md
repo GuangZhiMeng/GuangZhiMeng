@@ -12,9 +12,12 @@
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GuangZhiMeng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" /> </div>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuangZhiMeng&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /></div>
+
+<!--分隔线-->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
   
 <!-- visitor statistics logo 访客数统计徽标 -->
-<img src="https://komarev.com/ghpvc/?username=GuangZhiMeng&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+<div align="center"><img src="https://komarev.com/ghpvc/?username=GuangZhiMeng&label=Views&color=0e75b6&style=flat" alt="访问量统计" /></div>
 
 <!-- 连续打卡 -->
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuangZhiMeng" /> </div>
@@ -55,5 +58,7 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp"></div>
 
+<!--分隔线-->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ![Metrics](https://metrics.lecoq.io/GuangZhiMeng?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
