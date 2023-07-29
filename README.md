@@ -11,6 +11,5 @@
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GuangZhiMeng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" /> </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuangZhiMeng)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=GuangZhiMeng)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=GuangZhiMeng&repo=github-readme-stats&cache_seconds=86400&theme=transparent)https://github-readme-stats.vercel.app/api/pin/?username=GuangZhiMeng&repo=github-readme-stats&cache_seconds=86400&theme=transparent)</div>
 
-[transparent_repo]: https://github-readme-stats.vercel.app/api/pin/?username=GuangZhiMeng&repo=github-readme-stats&cache_seconds=86400&theme=transparent
