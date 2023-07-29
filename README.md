@@ -3,13 +3,6 @@
 **Welcome to My GitHub**
 ---
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/GuangZhiMeng/GuangZhiMeng/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/GuangZhiMeng/GuangZhiMeng/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/GuangZhiMeng/GuangZhiMeng/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 ![image](https://user-images.githubusercontent.com/84832795/212478754-bb2b6468-c2ef-486b-ae8b-a79a0faf715d.png)
 <br/>
 
@@ -21,8 +14,8 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /></div>
 
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/GuangZhiMeng/Awesome-Love-Code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=transparent" /></a>
+<a href="https://github.com/GuangZhiMeng/JavaStudy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuangZhiMeng&repo=github-readme-stats&cache_seconds=86400&theme=transparent" /></a>
 <br>
   
 
@@ -67,7 +60,7 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/GuangZhiMeng/GuangZhiMeng/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
